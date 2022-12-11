@@ -1,12 +1,13 @@
 #avatar{
-    width: 15%;
-    height: 15%;
-    border-radius: 40%;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
     overflow: auto;
     object-fit: contain;
     margin:0;
     padding:0;
 }
+
 
 /* #avatarbox{
 position: relative;
@@ -19,6 +20,12 @@ right: 1px;
 } */
 
 .jumbotron {
-background-color: rgb(130, 83, 200);
+background-color:#7153fa;
 width: auto;
+}
+
+.myicon{
+color: rgb(145, 145, 39);
+background-color: rgb(210, 210, 123);
+border: none;
 }
