@@ -2,8 +2,8 @@
     width: 25%;
     height: 25%;
     border-radius: 50%;
-    overflow: auto;
-    object-fit: contain;
+    /* overflow: auto; */
+    /* object-fit: contain; */
     margin:0;
     padding:0;
 }
